@@ -1,4 +1,16 @@
-commit b16361e05a2c0e7d13eb0eac11234f293c72ecf6 (HEAD, origin/master, origin/HEAD, master)
+commit 619e3ac5edb8fcc540d55a4b0e3d9dd401bdb9a4 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 25 00:35:59 2016 -0430
+
+    * primeros pasos
+
+commit 144a334c49625a48030299f632406bff89d4f45c (tag: v0.1.1)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 22 00:49:17 2016 -0430
+
+    * changelog
+
+commit b16361e05a2c0e7d13eb0eac11234f293c72ecf6
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Mar 22 00:48:59 2016 -0430
 
