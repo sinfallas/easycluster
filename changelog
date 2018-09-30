@@ -1,4 +1,10 @@
-commit 619e3ac5edb8fcc540d55a4b0e3d9dd401bdb9a4 (HEAD, origin/master, origin/HEAD, master)
+commit 91a8dceb4b0bba05aa891fd7b5194af2edfe7211 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 25 00:36:13 2016 -0430
+
+    * changelog
+
+commit 619e3ac5edb8fcc540d55a4b0e3d9dd401bdb9a4
 Author: jose perez <sinfallas@gmail.com>
 Date:   Fri Mar 25 00:35:59 2016 -0430
 
